@@ -3,7 +3,7 @@ An Introduction to the Data Analysis process with Numpy, Pandas, Matplotlib and 
 ## Dataset Descrription
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 Column names and their signifiance:
-*id- Unique identification of each movie data
+* id- Unique identification of each movie data
 *imdb_id- Unique identification of each internet movie database 
 *popularity- How popular the movie is among viewers
 *budget- The amount invested in the production of each movie
